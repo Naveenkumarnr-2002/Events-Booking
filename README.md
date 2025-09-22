@@ -1,7 +1,7 @@
-# GuviTask-7
+# Events-Booking
 
 
-<h1>Events Home Task</h1>
+<h1>Events Booking</h1>
 
 ![Screenshot 2025-04-09 195615](https://github.com/user-attachments/assets/84407814-4900-4087-8878-99554dc8a04f)
 
